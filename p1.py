@@ -1,4 +1,4 @@
-#Basic Prgraam Of Python print string on display differnet method
+#Basic Prgraam Of Python print string on display differnet method.
 print("Print string in python:\n")
 print("Hello Rohit, How are you?")
 print('I am Fine Bro')
