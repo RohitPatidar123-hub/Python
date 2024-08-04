@@ -62,3 +62,4 @@ message=f"{first} {second} Welcome's you"
 print(message)
 
 print(dir(message))  #give all the attribute and method that are available to you for that variable
+
